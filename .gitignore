@@ -1,3 +1,4 @@
 .bundle
 .bundles
 .sass-cache
+*.code-workspace
