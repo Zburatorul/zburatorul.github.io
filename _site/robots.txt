@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Private pages — not for indexing
+Disallow: /h/
