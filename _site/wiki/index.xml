@@ -6,65 +6,65 @@
       <description>Last 10 notes on Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Adaptive Agent Frameworks</title>
-    <link>https://plamadeala.com/wiki/concepts/adaptive-agent-frameworks</link>
-    <guid>https://plamadeala.com/wiki/concepts/adaptive-agent-frameworks</guid>
-    <description><![CDATA[ Adaptive Agent Frameworks Shiva Kasiviswanathan’s three research directions from Toward Adaptive Agent Frameworks for making agents adaptive enough for mission-critical deployment. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>AI Needs an Open Compute Layer</title>
+    <link>https://plamadeala.com/wiki/sources/ai-needs-an-open-compute-layer</link>
+    <guid>https://plamadeala.com/wiki/sources/ai-needs-an-open-compute-layer</guid>
+    <description><![CDATA[ AI Needs an Open Compute Layer Talk at the Agentic AI Summit 2026 (Compass, Saturday 4:10 PM, part of the Linux Foundation “Open Agentic Stack” workshop). ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent 2.0</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-2.0</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-2.0</guid>
-    <description><![CDATA[ Agent 2.0 From OpenSage: an explicit analogy to feature engineering vs. deep learning, applied to agent construction. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>AI for Data and Data for AI</title>
+    <link>https://plamadeala.com/wiki/sources/ai-for-data-and-data-for-ai</link>
+    <guid>https://plamadeala.com/wiki/sources/ai-for-data-and-data-for-ai</guid>
+    <description><![CDATA[ AI for Data and Data for AI Talk at the Agentic AI Summit 2026 (Saturday Plenary, Featured Talks block) by Dan Roth. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Delegation as Runtime Choice</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-delegation-as-runtime-choice</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-delegation-as-runtime-choice</guid>
-    <description><![CDATA[ Agent Delegation as Runtime Choice Daniel Homola’s (Lead AI Engineer, BMW Research) reframe from From Multi-Agent Patterns to Reliable Orchestration: multi-agent orchestration isn’t really about patterns — handoff, agents-as-tools, routing/classifier-dispatch get different names at every enterprise ... ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Accelerated Computing for Agentic AI</title>
+    <link>https://plamadeala.com/wiki/sources/accelerated-computing-for-agentic-ai</link>
+    <guid>https://plamadeala.com/wiki/sources/accelerated-computing-for-agentic-ai</guid>
+    <description><![CDATA[ Accelerated Computing for Agentic AI Talk at the Agentic AI Summit 2026 (Saturday Plenary, Featured Talks block) by Jonathan Cohen (VP, Applied Research, NVIDIA — leads the team behind the Nemotron open reasoning models). ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Harness</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-harness</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-harness</guid>
-    <description><![CDATA[ Agent Harness The infrastructure, context, and constraints wrapped around a raw model that convert its probabilistic capability into safe, reliable, goal-directed action — the shared thread across two consecutive talks in the same session: Accelerated Computing for Agentic AI (Jonathan Cohen, NVIDIA... ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Advancing the State of the Art: The Frontier of Enterprise Agentic AI</title>
+    <link>https://plamadeala.com/wiki/sources/advancing-the-state-of-the-art---the-frontier-of-enterprise-agentic-ai</link>
+    <guid>https://plamadeala.com/wiki/sources/advancing-the-state-of-the-art---the-frontier-of-enterprise-agentic-ai</guid>
+    <description><![CDATA[ Advancing the State of the Art: The Frontier of Enterprise Agentic AI Talk by Milind Naphade (SVP, AI Foundations, Capital One) at the Agentic AI Summit 2026, Sunday Plenary track, opening a 3-talk-plus-panel cluster on AI agents in finance and legal. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Memory Lifecycle</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-memory-lifecycle</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-memory-lifecycle</guid>
-    <description><![CDATA[ Agent Memory Lifecycle From Mindful Agents: Human-Inspired Memories for Long-Horizon Tasks (Microsoft Fabric AI): the human-vs-agent memory contrast that motivates the architecture. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agent Arena: Causal Evaluations of Agents in the Real World</title>
+    <link>https://plamadeala.com/wiki/sources/agent-arena---causal-evaluations-of-agents-in-the-real-world</link>
+    <guid>https://plamadeala.com/wiki/sources/agent-arena---causal-evaluations-of-agents-in-the-real-world</guid>
+    <description><![CDATA[ Agent Arena: Causal Evaluations of Agents in the Real World Talk by Anastasios Angelopoulos (Co-Founder &amp; CEO, LMArena) at the Agentic AI Summit 2026, Sunday Atlas track. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Security Taxonomy</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-security-taxonomy</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-security-taxonomy</guid>
-    <description><![CDATA[ Agent Security Taxonomy Bo Li’s framing from Securing AI Agents: three buckets that organize the space of agent security work. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agent Learning Requires Compressing Information into an Executable Reasoning Structure</title>
+    <link>https://plamadeala.com/wiki/sources/agent-learning-requires-compressing-information-into-an-executable-reasoning-structure</link>
+    <guid>https://plamadeala.com/wiki/sources/agent-learning-requires-compressing-information-into-an-executable-reasoning-structure</guid>
+    <description><![CDATA[ Agent Learning Requires Compressing Information into an Executable Reasoning Structure Featured talk at the Agentic AI Summit 2026 (Compass, Saturday 1:30 PM) by Nilou Salehi (Associate Professor, UC Berkeley; captioned “Nio”). ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Suspend-Resume Pattern</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-suspend-resume-pattern</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-suspend-resume-pattern</guid>
-    <description><![CDATA[ Agent Suspend-Resume Pattern The architectural response Tim Hockin describes in Is Kubernetes Good for Agents? to the mismatch documented in Agent Workload Shape. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agentic AI Applications for Mental Health: From Chatbots to Clinical Orchestration</title>
+    <link>https://plamadeala.com/wiki/sources/agentic-ai-applications-for-mental-health</link>
+    <guid>https://plamadeala.com/wiki/sources/agentic-ai-applications-for-mental-health</guid>
+    <description><![CDATA[ Agentic AI Applications for Mental Health: From Chatbots to Clinical Orchestration Featured talk at the Agentic AI Summit 2026 (Nexus, Saturday 3:05 PM). ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent Workload Shape</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-workload-shape</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-workload-shape</guid>
-    <description><![CDATA[ Agent Workload Shape Tim Hockin’s argument from Is Kubernetes Good for Agents?: agent workloads have a resource profile that’s structurally at odds with what general-purpose orchestration platforms (Kubernetes, but the point generalizes) are built to run efficiently. ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agentic AI Foundational Capabilities</title>
+    <link>https://plamadeala.com/wiki/sources/agentic-ai-foundational-capabilities</link>
+    <guid>https://plamadeala.com/wiki/sources/agentic-ai-foundational-capabilities</guid>
+    <description><![CDATA[ Agentic AI Foundational Capabilities Panel at the Agentic AI Summit 2026 (Saturday Plenary, 2:35 PM), following the five afternoon keynote/featured talks by the same six speakers. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent-Native Data Infrastructure</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-native-data-infrastructure</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-native-data-infrastructure</guid>
-    <description><![CDATA[ Agent-Native Data Infrastructure James Zou’s point from Harnessing the Collective Intelligence of Agents for Science: existing scientific databases (proteins, molecules, gene expression, and similar) were designed to be consumed by humans, or by pre-AI algorithms — and are “too brittle and too limit... ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agentic Coding, the Boring Way</title>
+    <link>https://plamadeala.com/wiki/sources/agentic-coding,-the-boring-way</link>
+    <guid>https://plamadeala.com/wiki/sources/agentic-coding,-the-boring-way</guid>
+    <description><![CDATA[ Agentic Coding, the Boring Way Featured talk at the Agentic AI Summit 2026 (Nexus, Saturday 1:30 PM), focused on legacy and enterprise systems specifically. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item><item>
-    <title>Agent-Native Payment Rails</title>
-    <link>https://plamadeala.com/wiki/concepts/agent-native-payment-rails</link>
-    <guid>https://plamadeala.com/wiki/concepts/agent-native-payment-rails</guid>
-    <description><![CDATA[ Agent-Native Payment Rails Nikhil Chandhok’s (Circle) argument from Building Infrastructure for the Agentic Economy: agents becoming outward-facing endpoints on the internet — his framing, “much like websites are endpoints on the internet” — need a fundamentally different payment substrate than the ... ]]></description>
-    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+    <title>Agentic Modeling via Internalizing Agent Harnesses</title>
+    <link>https://plamadeala.com/wiki/sources/agentic-modeling-via-internalizing-agent-harnesses</link>
+    <guid>https://plamadeala.com/wiki/sources/agentic-modeling-via-internalizing-agent-harnesses</guid>
+    <description><![CDATA[ Agentic Modeling via Internalizing Agent Harnesses Talk by Jianfeng Gao (Microsoft Research) at the Agentic AI Summit 2026 (Saturday, Atlas track). ]]></description>
+    <pubDate>Thu, 13 Aug 2026 04:57:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
