@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Wiki</title>
+      <link>https://plamadeala.com/wiki</link>
+      <description>Last 10 notes on Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Adaptive Agent Frameworks</title>
+    <link>https://plamadeala.com/wiki/concepts/adaptive-agent-frameworks</link>
+    <guid>https://plamadeala.com/wiki/concepts/adaptive-agent-frameworks</guid>
+    <description><![CDATA[ Adaptive Agent Frameworks Shiva Kasiviswanathan’s three research directions from Toward Adaptive Agent Frameworks for making agents adaptive enough for mission-critical deployment. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent 2.0</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-2.0</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-2.0</guid>
+    <description><![CDATA[ Agent 2.0 From OpenSage: an explicit analogy to feature engineering vs. deep learning, applied to agent construction. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Delegation as Runtime Choice</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-delegation-as-runtime-choice</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-delegation-as-runtime-choice</guid>
+    <description><![CDATA[ Agent Delegation as Runtime Choice Daniel Homola’s (Lead AI Engineer, BMW Research) reframe from From Multi-Agent Patterns to Reliable Orchestration: multi-agent orchestration isn’t really about patterns — handoff, agents-as-tools, routing/classifier-dispatch get different names at every enterprise ... ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Harness</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-harness</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-harness</guid>
+    <description><![CDATA[ Agent Harness The infrastructure, context, and constraints wrapped around a raw model that convert its probabilistic capability into safe, reliable, goal-directed action — the shared thread across two consecutive talks in the same session: Accelerated Computing for Agentic AI (Jonathan Cohen, NVIDIA... ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Memory Lifecycle</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-memory-lifecycle</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-memory-lifecycle</guid>
+    <description><![CDATA[ Agent Memory Lifecycle From Mindful Agents: Human-Inspired Memories for Long-Horizon Tasks (Microsoft Fabric AI): the human-vs-agent memory contrast that motivates the architecture. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Security Taxonomy</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-security-taxonomy</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-security-taxonomy</guid>
+    <description><![CDATA[ Agent Security Taxonomy Bo Li’s framing from Securing AI Agents: three buckets that organize the space of agent security work. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Suspend-Resume Pattern</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-suspend-resume-pattern</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-suspend-resume-pattern</guid>
+    <description><![CDATA[ Agent Suspend-Resume Pattern The architectural response Tim Hockin describes in Is Kubernetes Good for Agents? to the mismatch documented in Agent Workload Shape. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent Workload Shape</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-workload-shape</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-workload-shape</guid>
+    <description><![CDATA[ Agent Workload Shape Tim Hockin’s argument from Is Kubernetes Good for Agents?: agent workloads have a resource profile that’s structurally at odds with what general-purpose orchestration platforms (Kubernetes, but the point generalizes) are built to run efficiently. ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent-Native Data Infrastructure</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-native-data-infrastructure</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-native-data-infrastructure</guid>
+    <description><![CDATA[ Agent-Native Data Infrastructure James Zou’s point from Harnessing the Collective Intelligence of Agents for Science: existing scientific databases (proteins, molecules, gene expression, and similar) were designed to be consumed by humans, or by pre-AI algorithms — and are “too brittle and too limit... ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item><item>
+    <title>Agent-Native Payment Rails</title>
+    <link>https://plamadeala.com/wiki/concepts/agent-native-payment-rails</link>
+    <guid>https://plamadeala.com/wiki/concepts/agent-native-payment-rails</guid>
+    <description><![CDATA[ Agent-Native Payment Rails Nikhil Chandhok’s (Circle) argument from Building Infrastructure for the Agentic Economy: agents becoming outward-facing endpoints on the internet — his framing, “much like websites are endpoints on the internet” — need a fundamentally different payment substrate than the ... ]]></description>
+    <pubDate>Thu, 13 Aug 2026 03:51:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
