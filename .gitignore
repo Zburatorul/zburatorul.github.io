@@ -2,3 +2,4 @@
 .bundles
 .sass-cache
 *.code-workspace
+.claude
